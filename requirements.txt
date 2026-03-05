@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+sqlite3
+langchain
+langgraph
+langsmith
+langchain-community
+langchain-ollama
+reportlab
+python-multipart
