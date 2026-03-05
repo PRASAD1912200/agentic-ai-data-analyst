@@ -208,11 +208,12 @@ Which product has the highest sales
 
 ## Dashboard UI
 
-![Dashboard](docs/screenshort (116).png)
+![Dashboard UI](docs/ui_screenshort.png)
 
+The dashboard provides a chat-style interface where users can ask questions about the dataset.  
+It shows query history, generated SQL, results table, and allows downloading PDF reports.
 ## Generated PDF Report
-
-![Dashboard](docs/screenshort (117).png)
+![PDF Report](docs/pdf_file_screnshort.png)
 
 Example:
 
