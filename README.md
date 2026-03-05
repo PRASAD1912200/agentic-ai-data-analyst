@@ -208,11 +208,11 @@ Which product has the highest sales
 
 ## Dashboard UI
 
-![Dashboard](doc\Screenshot (116).png)
+![Dashboard](docs/screenshort%20(116).png)
 
 ## Generated PDF Report
 
-![PDF Report](doc\Screenshot (117).png)
+![Dashboard](docs/screenshort%20(117).png)
 
 Example:
 
